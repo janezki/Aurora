@@ -1,0 +1,7 @@
+Pyryn ohje taustan skaalaukseen
+background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+    https://teams.microsoft.com/l/meetup-join/19:e34bdfd295f148cb863be0b42a0ff811@thread.tacv2/1664778130199?context=%7B%22Tid%22:%22cd65ef4d-bcae-4953-8c37-f6b30026a09e%22,%22Oid%22:%22b44eb060-3aa6-46bc-b8c9-7e4bc84c25ee%22%7D
